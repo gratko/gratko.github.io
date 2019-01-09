@@ -1,8 +1,5 @@
 # gratko.github.io
-my portfolio
+This repository has the files for my personal website.  
 
 
 
-asd
-
-dsfdfasd
